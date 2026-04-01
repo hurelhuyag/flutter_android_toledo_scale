@@ -1,5 +1,5 @@
 name: flutter_android_toledo_scale
-description: "A new Flutter project."
+description: "A Flutter plugin for reading weight data from Mettler Toledo scales via serial port on Android."
 version: 0.0.1
 homepage: https://github.com/hurelhuyag/flutter_android_toledo_scale
 
